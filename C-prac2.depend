@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1748084038 source:c:\users\user\c-prac2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1746654922 source:c:\users\user\c-prac2\submain.c
+	<stdio.h>
+	<stdlib.h>
+
+1746656310 source:c:\users\user\c-prac2\grade-program.c
+	<stdio.h>
+	<stdlib.h>
+
+1748077557 source:c:\users\user\c-prac2\lab-goal.c
+	<stdio.h>
+	<stdlib.h>
+
