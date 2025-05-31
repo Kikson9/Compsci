@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
+
 int n()
 {
     float purchaseTotal, salesTax, discountedtotal, discount, total, finalTotal;
@@ -118,4 +118,3 @@ int n()
     return 0;
 }
 
-*/
